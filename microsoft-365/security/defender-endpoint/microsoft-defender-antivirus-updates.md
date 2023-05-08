@@ -214,6 +214,7 @@ For Windows 10 release information, see the [Windows lifecycle fact sheet](https
 > [!NOTE]  
 > Windows Server 2016 ships with the same Platform version as RS1 and falls under the same support phase: Technical upgrade support (only)  
 > Windows Server 2019 ships with the same Platform version as RS5 and falls under the same support phase: Technical upgrade support (only)  
+> For Platform versions before 4.18.2001.10, if you want to update Platform version to the latest one, please install Platform version 4.18.2001.10 before installing the latest Platform update.
 
 ## Updates for Deployment Image Servicing and Management (DISM)
 
